@@ -1,0 +1,4 @@
+com\wizardcode\client\notification\NotificationClient.class
+com\wizardcode\client\notification\NotificationRequest.class
+com\wizardcode\client\fraud\FraudClient.class
+com\wizardcode\client\fraud\FraudCheckResponse.class

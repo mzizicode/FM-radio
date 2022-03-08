@@ -1,0 +1,8 @@
+com\wizardcode\customer\CustomerService.class
+com\wizardcode\customer\CustomerApplication.class
+com\wizardcode\customer\CustomerConfig.class
+com\wizardcode\customer\CustomerController.class
+com\wizardcode\customer\Customer$CustomerBuilder.class
+com\wizardcode\customer\Customer.class
+com\wizardcode\customer\CustomerRepository.class
+com\wizardcode\customer\CustomerRegistrationRequest.class
